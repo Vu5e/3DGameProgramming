@@ -1,0 +1,5 @@
+﻿  demo.cpp
+d:\documents\degree\sem 6\advance3d\3dprogramming\3dprogramming\demo.cpp(165): warning C4474: 'printf' : too many arguments passed for format string
+  d:\documents\degree\sem 6\advance3d\3dprogramming\3dprogramming\demo.cpp(165): note: placeholders and their parameters expect 0 variadic arguments, but 2 were provided
+d:\documents\degree\sem 6\advance3d\3dprogramming\3dprogramming\demo.cpp(494): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  3DProgramming.vcxproj -> D:\Documents\Degree\Sem 6\Advance3D\3DProgramming\Debug\3DProgramming.exe
